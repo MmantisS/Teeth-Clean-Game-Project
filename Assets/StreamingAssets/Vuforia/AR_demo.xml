@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="C_rggFlHvDQ" size="100.000000 72.656250" />
+    <ImageTarget name="NlMAq4pVVwQ" size="100.000000 72.968750" />
+    <ImageTarget name="istockphoto-990469834-1024x1024" size="100.000000 100.000000" />
+    <ImageTarget name="Picture_target" size="0.200000 0.155224" />
+    <ImageTarget name="symbol" size="0.400000 0.425000" />
+    <ImageTarget name="squarerec" size="0.150000 0.148009" />
+  </Tracking>
+</QCARConfig>
